@@ -2,7 +2,7 @@ name: Auto
 
 on:
   schedule:
-    - cron: "01 01 * * *"
+    - cron: "36 01 * * *"
   workflow_dispatch:
 
 env:
